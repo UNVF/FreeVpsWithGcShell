@@ -7,11 +7,9 @@ The VPS that you create will have specifications in accordance with Google Cloud
 Open your Google cloudshell console and follow the guide below
 
 ```bash
-1. git clone https://github.com/UNVF/FreeVpsWithGcShell.git
-2. cd FreeVpsWithGcShell
-3. bash start.sh
+git clone https://github.com/UNVF/FreeVpsWithGcShell.git
+cd FreeVpsWithGcShell
+bash start.sh
 ```
-4. Retrieve the chrome remote desktop token at remotedesktop.google.com
-5. Enter your Chrome desktop token
-6. re-enter remotedesktop.google.com, and see the results 
+Retrieve the chrome remote desktop token at remotedesktop.google.com, Enter your Chrome desktop token then re-enter remotedesktop.google.com, and see the results.
 
