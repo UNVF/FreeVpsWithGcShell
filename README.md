@@ -10,6 +10,7 @@ Open your Google cloudshell console and follow the guide below
 1. git clone https://github.com/UNVF/FreeVpsWithGcShell.git
 2. cd FreeVpsWithGcShell
 3. bash start.sh
+```
 4. Retrieve the chrome remote desktop token at remotedesktop.google.com
 5. Enter your Chrome desktop token
 6. re-enter remotedesktop.google.com, and see the results 
