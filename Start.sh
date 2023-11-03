@@ -33,9 +33,3 @@ sudo apt-get update
 
 # Install VSCode
 sudo apt-get install code
-
-# Prompt user for a command
-read -p "Enter the command you want to run: " USER_COMMAND
-
-# Running the user-provided command using CRD_TOKEN
-echo "$CRD_TOKEN" | bash -c "$USER_COMMAND"
