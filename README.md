@@ -7,7 +7,7 @@ The VPS that you create will have specifications in accordance with Google Cloud
 Open your Google cloudshell console and follow the guide below
 
 ```bash
-sudo apt upgrade
+sudo apt update
 sudo sudo dpkg -i chrome*
 git clone https://github.com/UNVF/FreeVpsWithGcShell.git
 cd FreeVpsWithGcShell
