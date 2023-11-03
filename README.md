@@ -11,6 +11,7 @@ sudo passwd
 su
 sudo apt update
 sudo apt upgrade
+sudo sudo dpkg -i chrome*
 git clone https://github.com/UNVF/FreeVpsWithGcShell.git
 cd FreeVpsWithGcShell
 bash Start.sh
