@@ -2,9 +2,9 @@
 
 The VPS that you create will have specifications in accordance with Google CloudShell specifications with the Debian operating system, i found this method on the internet and made a Bash script to make it easier to do, everything related to crime is the user's responsibility, not me
 
-## Instalasi
+## installation
 
-installation
+Open your Google cloudshell console and follow the guide below
 
 ```bash
 1. git clone https://github.com/UNVF/FreeVpsWithGcShell.git
