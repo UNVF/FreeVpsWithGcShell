@@ -6,14 +6,11 @@ wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 # Update package information
 sudo apt-get update
 
+# Install XFCE and XFCE terminal
+sudo apt-get install xfce4 xfce4-terminal dbus-x11
+
 # Install Google Chrome
 sudo dpkg -i chrome*
-
-# Install dbus-x11
-sudo apt install dbus-x11
-
-# Install XFCE and XFCE terminal
-sudo apt-get install xfce4 xfce4-terminal
 
 # Install any pending dependencies
 sudo apt-get install -f
