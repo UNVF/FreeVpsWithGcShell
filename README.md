@@ -8,7 +8,6 @@ Open your Google cloudshell console and follow the guide below
 
 ```bash
 sudo apt update
-sudo sudo dpkg -i chrome*
 git clone https://github.com/UNVF/FreeVpsWithGcShell.git
 cd FreeVpsWithGcShell
 bash Start.sh
